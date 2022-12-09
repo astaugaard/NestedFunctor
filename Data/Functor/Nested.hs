@@ -25,6 +25,7 @@ in a 'Nested' value.
 {-# LANGUAGE UndecidableInstances   #-}
 {-# LANGUAGE ScopedTypeVariables    #-}
 {-# LANGUAGE FunctionalDependencies #-}
+{-# LANGUAGE FlexibleContexts #-}
 
 module Data.Functor.Nested where
 
